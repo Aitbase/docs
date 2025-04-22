@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu
 
-Let's discover **Docusaurus in less than 5 minutes**.
+---
 
-## Getting Started
+**Aitbase Chatbot** là giải pháp hỗ trợ khách hàng tự động và quản lý tương tác đa kênh (Omnichannel), tích hợp các kênh như **Facebook Messenger**, **Website**, **WhatsApp** vào một nền tảng duy nhất. Ứng dụng giúp doanh nghiệp tự động hóa việc trả lời khách hàng 24/7 thông qua **Chatbot Agent** được đào tạo từ dữ liệu riêng, đồng thời quản lý thông tin khách hàng tập trung.  
 
-Get started by **creating a new site**.
+### **Tính Năng Chính**  
+- ✅ **Tích Hợp Đa Kênh**: Quản lý tất cả hội thoại từ Facebook, Website, WhatsApp… trên **một bảng điều khiển**.  
+- ✅ **Chatbot Tự Động 24/7**: Tự động kích hoạt trả lời khi khách hàng nhắn tin.  
+- ✅ **Xử Lý Nghiệp Vụ**: Kiểm tra giá phòng, đặt phòng online, truy vấn thông tin dịch vụ.  
+- ✅ **Lưu Trữ Dữ Liệu**: Tự động đồng bộ thông tin khách hàng vào [sheet.aitbase.com](https://sheet.aitbase.com).  
+- ✅ **Tùy Chỉnh Chatbot**: Đào tạo AI bằng dữ liệu riêng (FAQ, sản phẩm, chính sách).  
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### **Tại Sao Chọn Aitbase Chatbot?**  
+- ⏱️ **Tiết Kiệm 80% Thời Gian** trả lời thủ công.  
+- 🌐 **Hỗ Trợ 24/7** trên mọi kênh liên lạc.  
+- 🔄 **Tích Hợp Linh Hoạt** với CRM, Google Sheet, API.  
+- 📊 **Phân Tích Dữ Liệu** tập trung từ một giao diện.  
